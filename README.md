@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bharatharja
 - 👀 I’m interested in Modern workspace architecture, SharePoint, Microsoft 365, Teams devices, Power Platform, Automations, Yammer, OneDrive & all other Office 365 services.
 - 🌱 I’m currently learning about M365 PnP & JSON
-- 💞️ I’m looking to collaborate on anything Microsoft 365
 - 📫 Reach me @Bharath_arja twitter handle
 
 <!---

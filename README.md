@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharatharja
-- 👀 I’m interested in Modern workspace architecture, SharePoint, Microsoft 365, Teams devices, Viva, Power Platform, Automations, Yammer, OneDrive & all other Office 365 services.
-- 🌱 I’m currently learning about M365 PnP & JSON
+- 👀 I’m interested in Modern workspace architecture, M365 Copilot, Agentic AI, Agent Governance, SharePoint, Microsoft 365, Power Platform, Automations.
+- 🌱 I’m currently learning about Agentic design architecture 
 - 📫 Reach me @Bharath_arja twitter handle
 
 <!---
